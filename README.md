@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pieakshat[Akshat]
-- 👀 I’m interested in blockchians and crypto 
-- 🌱 I’m currently learning contract development and deployment on ethereum, js and economics.
-- 💞️ I’m looking to collaborate on blockchains like ethereum, solana. 
+- 👀 I’m working in blockchians and crypto 
+- 🌱 I’m currently learning contract development on Solana, zk-cryptography, Defi development.
+- Skiils: MERN, Solidity, wagmi, python, ts, Rust
 - 📫 How to reach me akshat.05p@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: the only way to do great work is to love what you do. 
