@@ -3,8 +3,7 @@
 **DeFi & Crypto Builder & Researcher**
 
 - 📫 **Email:** [akshat.05p@gmail.com](mailto:akshat.05p@gmail.com)
-- 😄 **Pronouns:** he/him
-- ⚡ **Fun fact:** The only way to do great work is to love what you do.
+- ⚡ The only way to do great work is to love what you do.
 
 ---
 
